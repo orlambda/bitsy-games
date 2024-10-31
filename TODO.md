@@ -1,1 +1,1 @@
-- Try saving and loading a bitsy game
+- Making an index.html that links to a bitsy game
