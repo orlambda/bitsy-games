@@ -85,7 +85,7 @@ SPR a
 00101110
 00111100
 00100100
-NAME cat
+NAME guy
 DLG 0
 POS 0 1,0
 BLIP 1
@@ -116,7 +116,7 @@ DLG 2
 BLIP 2
 
 DLG 0
-I'm a cat
+You're not meant to be here!
 NAME cat dialog
 
 DLG 1
