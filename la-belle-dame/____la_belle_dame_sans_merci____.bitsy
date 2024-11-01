@@ -113,6 +113,7 @@ SPR b
 11011100
 00010100
 NAME knight
+DLG 3
 POS 0 9,3
 
 SPR c
@@ -399,6 +400,16 @@ NAME tea dialog
 DLG 2
 A key! {wvy}What does it open?{wvy}
 NAME key dialog
+
+DLG 3
+"""
+Oh what can ail thee, Knight at arms,
+Alone and palely loitering?
+
+The sedge has withered from the Lake,
+And no birds sing.
+"""
+NAME knight dialog
 
 VAR a
 42
